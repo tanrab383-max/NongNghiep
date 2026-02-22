@@ -1,0 +1,7 @@
+{
+  "name": "AgriAI Platform",
+  "description": "Nền tảng nông nghiệp thông minh tích hợp AI nhận diện bệnh cây, dự báo giá nông sản và chatbot tư vấn chuyên sâu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
